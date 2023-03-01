@@ -1,0 +1,21 @@
+html,
+body {
+  margin: 64px;
+  background: #fff;
+}
+
+a {
+  color: black;
+  font-size: 26px;
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  width: fit-content;
+}
+a:hover {
+  opacity: 0.5;
+}
+div {
+  display: grid;
+  gap: 5px;
+}
